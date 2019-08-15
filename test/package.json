@@ -1,0 +1,6 @@
+{
+	"name": "Test",
+	"devDependencies": {
+		"javascript-obfuscator": "^0.18.1"
+	}
+}
